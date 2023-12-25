@@ -1,0 +1,12 @@
+#body{
+    background-image: url('skyBackground.png') ;
+    background-size:cover ;
+    background-position:right ;
+    background-repeat: no-repeat;
+    height: 70vh
+
+}
+
+
+
+/* background-size: cover; background-position: center; background-repeat: no-repeat;   */
